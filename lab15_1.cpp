@@ -34,12 +34,3 @@ int main(){
 	cout << "\nSorted Array:";
 	for(int i = 0; i < 10; i++) cout << a[i] << " ";	
 }
-
-/*int j= i-1;
-    	int key = d[i];
-    	while(d[j]<key && j>=0)
-    	{
-           d[j+1]=d[j];
-           j--;
-    	}
-       d[j+1]=key;*/
